@@ -1,1 +1,2 @@
 This is conflict File
+This is updated now
