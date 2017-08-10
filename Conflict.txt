@@ -1,4 +1,0 @@
-This is conflict File
-This is updated now
-This is remote conflict
-
